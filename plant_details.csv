@@ -1,0 +1,81 @@
+Scientific Name,Common Name,Medicinal Uses,Category,Part Used,How it is used,How the plant works in the body,Toxicity/Side Effects,Image Path
+Aloe vera,Aloevera,"Heals wounds, soothes burns, treats skin issues",Skin-related,Leaves,Gel applied topically,"Anti-inflammatory, antimicrobial",Mild laxative effect if consumed in excess,images/aloevera.jpg
+Phyllanthus emblica,Amla,"Boosts immunity, improves digestion, good for skin","Respiratory, Digestive, Skin-related",Fruit,"Eaten raw, juice, powder","Rich in Vitamin C, antioxidant",May lower blood sugar levels,images/amla.jpg
+Tinospora cordifolia,Amruthaballi,"Enhances immunity, treats respiratory issues",Respiratory,Stem,"Decoction, powder","Immunomodulatory, anti-inflammatory",May cause constipation,images/amruthaballi.jpg
+Nerium oleander,Arali,"Used in cardiac issues, but highly toxic",None (Toxic),"Leaves, Flowers",Traditional medicine (Caution),"Cardiotonic, but highly poisonous","Highly toxic, can be fatal",images/arali.jpg
+Saraca asoca,Ashoka,"Helps in menstrual disorders, skin ailments",Skin-related,"Bark, Leaves","Decoction, paste","Anti-inflammatory, astringent",No major toxicity in normal doses,images/ashoka.jpg
+Parthenium hysterophorus,Asthma Weed,"Treats respiratory issues, asthma relief",Respiratory,Leaves,"Inhalation, paste","Anti-allergic, bronchodilator",Can cause skin irritation,images/asthma_weed.jpg
+Aristolochia indica,Badipala,"Used for snake bites, respiratory issues",Respiratory,"Leaves, Roots","Decoction, powder","Anti-inflammatory, expectorant",Toxic in large doses,images/badipala.jpg
+Cardiospermum halicacabum,Balloon Vine,"Treats joint pain, skin disorders",Skin-related,"Leaves, Roots","Paste, decoction",Anti-inflammatory,No known toxicity,images/balloon_vine.jpg
+Bambusa spp.,Bamboo,"Supports digestion, respiratory health","Digestive, Respiratory","Shoots, Leaves","Consumed, decoction","Rich in fiber, antioxidants",None if prepared properly,images/bamboo.jpg
+Phaseolus spp.,Beans,"Improves digestion, good for heart",Digestive,Seeds,"Cooked, raw","High in fiber, protein",None if cooked properly,images/beans.jpg
+Piper betle,Betel,"Aids digestion, antiseptic properties",Digestive,Leaves,"Chewed, decoction","Carminative, antibacterial",Excessive use may cause cancer,images/betel.jpg
+Bacopa monnieri,Bhrami,"Enhances memory, reduces stress","Respiratory, Skin-related",Leaves,"Juice, decoction","Neuroprotective, adaptogenic",May cause nausea in excess,images/bhrami.jpg
+Eclipta prostrata,Bringaraja,"Improves liver health, hair growth",Skin-related,Leaves,"Juice, oil","Hepatoprotective, rejuvenating",No major toxicity,images/bringaraja.jpg
+Cinnamomum camphora,Camphor,"Used in cold relief, skin treatment","Respiratory, Skin-related","Leaves, Bark","Oil, inhalation","Antiseptic, analgesic",Toxic if ingested in large amounts,images/camphor.jpg
+Carissa carandas,Caricature,"Used in digestive disorders, improves immunity",Digestive,"Fruits, Leaves","Eaten raw, decoction","Antioxidant, carminative",No major toxicity,images/caricature.jpg
+Ricinus communis,Castor,"Laxative, promotes hair growth","Digestive, Skin-related","Seeds, Oil","Oil application, consumption","Anti-inflammatory, detoxifying",Toxic if seeds are consumed raw,images/castor.jpg
+Catharanthus roseus,Catharanthus,"Used in diabetes, cancer treatment",Digestive,"Leaves, Flowers","Decoction, extract","Anticancer, hypoglycemic",Toxic if consumed in excess,images/catharanthus.jpg
+Cassia fistula,Chakte,"Treats constipation, skin disorders","Digestive, Skin-related","Bark, Fruit","Powder, decoction","Laxative, anti-inflammatory",Overuse can cause diarrhea,images/chakte.jpg
+Capsicum annuum,Chilly,"Aids digestion, boosts metabolism",Digestive,Fruit,"Raw, powdered","Stimulates digestion, anti-inflammatory",May cause stomach irritation,images/chilly.jpg
+Citrus medica,Citron Lime,"Treats digestive issues, boosts immunity","Digestive, Respiratory",Fruit,"Juice, raw","Rich in Vitamin C, carminative",May cause acidity,images/citron_lime.jpg
+Coffea arabica,Coffee,"Improves alertness, aids digestion",Digestive,Seeds (Beans),Brewed as a drink,"Stimulant, antioxidant","May cause insomnia, acidity",images/coffee.jpg
+Ruta graveolens,Common Rue (Naagdalli),"Treats digestive issues, respiratory ailments","Respiratory, Digestive",Leaves,"Tea, decoction","Antispasmodic, anti-inflammatory","Toxic in large doses, can cause skin irritation",images/common_rue.jpg
+Coriandrum sativum,Coriander,"Aids digestion, improves skin health","Digestive, Skin-related","Leaves, Seeds","Raw, decoction, paste","Carminative, antioxidant",No major toxicity,images/coriander.jpg
+Murraya koenigii,Curry,"Aids digestion, controls diabetes",Digestive,Leaves,"Raw, cooked, decoction","Antidiabetic, antioxidant",No major toxicity,images/curry.jpg
+Plectranthus amboinicus,Doddpathre,"Treats cold, cough, improves digestion","Respiratory, Digestive",Leaves,"Juice, decoction","Antimicrobial, expectorant",No major toxicity,images/doddpathre.jpg
+Moringa oleifera,Drumstick,"Boosts immunity, good for digestion and skin","Digestive, Skin-related","Leaves, Pods","Cooked, powder, decoction","Antioxidant, anti-inflammatory",No major toxicity,images/drumstick.jpg
+Calotropis gigantea,Ekka,"Used for skin diseases, wound healing",Skin-related,"Leaves, Latex","Paste, applied externally","Antimicrobial, healing properties",Latex can be toxic if ingested,images/ekka.jpg
+Eucalyptus globulus,Eucalyptus,"Treats respiratory issues, relieves pain",Respiratory,"Leaves, Oil","Inhalation, topical use","Antimicrobial, decongestant",Toxic if consumed in large quantities,images/eucalyptus.jpg
+Clerodendrum serratum,Ganigale,"Treats asthma, respiratory problems",Respiratory,"Leaves, Roots","Decoction, paste","Bronchodilator, anti-inflammatory",No major toxicity,images/ganigale.jpg
+Premna integrifolia,Ganike,"Used for digestive disorders, inflammation","Digestive, Skin-related","Leaves, Bark","Paste, decoction","Anti-inflammatory, detoxifying",No major toxicity,images/ganike.jpg
+Papaver somniferum,Gasagase (Poppy),"Pain relief, aids sleep","Respiratory, Digestive",Seeds,"Ground into paste, infusion","Sedative, analgesic",Can be addictive in high doses,images/gasagase.jpg
+Zingiber officinale,Ginger,"Aids digestion, relieves nausea",Digestive,Rhizome,"Raw, tea, decoction","Carminative, anti-inflammatory",May cause heartburn in excess,images/ginger.jpg
+Gomphrena globosa,Globe Amarnath,"Treats respiratory issues, improves skin health","Respiratory, Skin-related",Flowers,"Tea, decoction","Antioxidant, anti-inflammatory",No major toxicity,images/globe_amarnath.jpg
+Psidium guajava,Guava,"Controls diabetes, boosts immunity",Digestive,"Leaves, Fruit","Eaten raw, decoction","Antidiabetic, antimicrobial",No major toxicity,images/guava.jpg
+Lawsonia inermis,Henna,"Treats skin conditions, hair care",Skin-related,Leaves,"Paste, oil","Cooling, antifungal",Rare allergic reactions,images/henna.jpg
+Hibiscus rosa-sinensis,Hibiscus,"Lowers blood pressure, promotes hair growth","Skin-related, Digestive","Flowers, Leaves","Tea, oil, decoction","Antioxidant, rejuvenating",No major toxicity,images/hibiscus.jpg
+Pongamia pinnata,Honge,"Treats skin diseases, used for joint pain",Skin-related,"Seeds, Oil","Oil application, decoction","Anti-inflammatory, antifungal",Toxic if ingested in large amounts,images/honge.jpg
+Costus igneus,Insulin Plant,"Helps control diabetes, improves digestion",Digestive,Leaves,"Chewed raw, decoction","Hypoglycemic, antioxidant",No major toxicity,images/insulin.jpg
+Artocarpus heterophyllus,Jackfruit,"Boosts immunity, improves digestion",Digestive,"Fruit, Seeds","Eaten raw, cooked","Antioxidant, nutrient-rich",No major toxicity,images/jackfruit.jpg
+Jasminum officinale,Jasmine,"Reduces stress, used for skin care","Skin-related, Respiratory","Flowers, Leaves","Tea, oil, paste","Antiseptic, calming",No major toxicity,images/jasmine.jpg
+Ocimum tenuiflorum,Kamakasturi,"Treats respiratory issues, boosts immunity",Respiratory,Leaves,"Tea, decoction, raw leaves","Antimicrobial, anti-inflammatory",No major toxicity,images/kamakasturi.jpg
+Trichosanthes cucumerina,Kambajala,"Aids digestion, used for fever treatment",Digestive,"Fruits, Leaves","Cooked, decoction","Antipyretic, carminative",No major toxicity,images/kambajala.jpg
+Cassia occidentalis,Kasambruga,"Used for skin diseases, liver detox","Skin-related, Digestive","Leaves, Seeds","Paste, decoction","Hepatoprotective, antioxidant",High doses may be toxic to the liver,images/kasambruga.jpg
+Eupatorium triplinerve,Kepala,"Treats respiratory infections, cough",Respiratory,Leaves,"Tea, decoction","Antimicrobial, expectorant",No major toxicity,images/kepala.jpg
+Brassica oleracea var. gongylodes,Kohlrabi,"Aids digestion, improves immunity",Digestive,"Bulb, Leaves","Cooked, raw","Nutrient-rich, antioxidant",No major toxicity,images/kohlrabi.jpg
+Lantana camara,Lantana,"Used for wound healing, antimicrobial",Skin-related,"Leaves, Flowers","Paste, decoction","Antiseptic, antibacterial",Toxic if ingested in large amounts,images/lantana.jpg
+Citrus limon,Lemon,"Aids digestion, improves skin health","Digestive, Skin-related","Fruit, Peel","Juice, decoction","Vitamin C-rich, antioxidant",No major toxicity,images/lemon.jpg
+Cymbopogon citratus,Lemongrass,"Treats fever, aids digestion","Digestive, Respiratory",Leaves,"Tea, essential oil","Antipyretic, digestive stimulant",No major toxicity,images/lemongrass.jpg
+Justicia adhatoda,Malabar Nut,"Used for respiratory disorders, cough",Respiratory,"Leaves, Bark","Decoction, syrup","Expectorant, bronchodilator",No major toxicity,images/malabar_nut.jpg
+Basella alba,Malabar Spinach,"Aids digestion, improves skin health","Digestive, Skin-related","Leaves, Stems","Cooked, raw","Nutrient-rich, anti-inflammatory",No major toxicity,images/malabar_spinach.jpg
+Mangifera indica,Mango,"Boosts immunity, aids digestion",Digestive,"Fruit, Leaves","Eaten raw, juice, decoction","Antioxidant, nutrient-rich",No major toxicity,images/mango.jpg
+Tagetes erecta,Marigold,"Used for wound healing, skin care",Skin-related,"Flowers, Leaves","Paste, decoction","Antiseptic, anti-inflammatory",No major toxicity,images/marigold.jpg
+Mentha arvensis,Mint,"Aids digestion, treats respiratory issues","Digestive, Respiratory",Leaves,"Tea, raw leaves, decoction","Carminative, cooling effect",Excess may cause acid reflux,images/mint.jpg
+Azadirachta indica,Neem,"Treats skin conditions, improves immunity","Skin-related, Digestive","Leaves, Bark","Paste, decoction, oil","Antibacterial, antifungal","Bitter taste, may cause stomach upset",images/neem.jpg
+Andrographis paniculata,Nelavembu,"Used for fever, liver detox",Digestive,Leaves,"Decoction, extract","Hepatoprotective, antipyretic","Bitter taste, no major toxicity",images/nelavembu.jpg
+Syzygium cumini,Nerale (Jamun),"Controls diabetes, boosts digestion",Digestive,"Fruit, Seeds","Eaten raw, juice, powder","Antidiabetic, antioxidant",No major toxicity,images/nerale.jpg
+Morinda citrifolia,Nooni (Noni),"Boosts immunity, treats skin conditions","Skin-related, Digestive","Fruit, Leaves","Juice, paste, decoction","Anti-inflammatory, detoxifying",Overconsumption may cause liver issues,images/nooni.jpg
+Allium cepa,Onion,"Improves heart health, used for skin issues","Skin-related, Digestive",Bulb,"Raw, juice, cooked","Antioxidant, anti-inflammatory",May cause irritation in excess,images/onion.jpg
+Adenanthera pavonina,Padri,"Used for joint pain, anti-inflammatory","Skin-related, Digestive","Seeds, Leaves","Decoction, paste","Anti-inflammatory, analgesic",No major toxicity,images/padri.jpg
+Spinacia oleracea,Palak (Spinach),"Improves digestion, boosts iron levels",Digestive,Leaves,"Raw, cooked, juice","Nutrient-rich, antioxidant",No major toxicity,images/palak.jpg
+Carica papaya,Papaya,"Aids digestion, boosts immunity",Digestive,"Fruit, Leaves","Eaten raw, juice, decoction","Rich in enzymes, improves gut health",Excess can cause stomach upset,images/papaya.jpg
+Nyctanthes arbor-tristis,Parijatha,"Treats fever, skin issues, and arthritis","Skin-related, Digestive","Flowers, Leaves","Tea, paste, decoction","Anti-inflammatory, pain-relief",No major toxicity,images/parijatha.jpg
+Pisum sativum,Pea,"Boosts digestion, supports heart health",Digestive,"Seeds, Shoots","Eaten raw, cooked","Nutrient-rich, antioxidant",No major toxicity,images/pea.jpg
+Piper nigrum,Pepper,"Aids digestion, treats respiratory issues","Digestive, Respiratory",Seeds,"Powder, decoction","Carminative, antimicrobial",Excess can cause acidity,images/pepper.jpg
+Punica granatum,Pomegranate,"Improves digestion, boosts immunity",Digestive,"Fruit, Seeds","Juice, raw, decoction","Antioxidant, anti-inflammatory",No major toxicity,images/pomegranate.jpg
+Cucurbita pepo,Pumpkin,"Improves skin health, aids digestion","Skin-related, Digestive","Fruit, Seeds","Cooked, raw, paste","Nutrient-rich, antioxidant",No major toxicity,images/pumpkin.jpg
+Raphanus sativus,Radish,"Aids digestion, detoxifies liver",Digestive,"Root, Leaves","Raw, cooked, juice","Detoxifying, diuretic",Excess can cause stomach irritation,images/radish.jpg
+Rosa indica,Rose,"Used for skin care, digestion improvement","Skin-related, Digestive",Petals,"Tea, oil, raw petals","Antioxidant, anti-inflammatory",No major toxicity,images/rose.jpg
+Michelia champaca,Sampige,"Used for stress relief, skin conditions","Skin-related, Respiratory","Flowers, Bark","Tea, paste, decoction","Relaxant, anti-inflammatory",No major toxicity,images/sampige.jpg
+Manilkara zapota,Sapota,"Boosts digestion, good for skin health","Digestive, Skin-related","Fruit, Leaves","Eaten raw, juice, paste","Antioxidant, nutrient-rich",No major toxicity,images/sapota.jpg
+Saraca asoca,Seethaashoka,"Treats menstrual disorders, improves skin health","Skin-related, Digestive","Bark, Flowers","Decoction, powder","Anti-inflammatory, pain relief",No major toxicity,images/seethaashoka.jpg
+Annona squamosa,Seethapala,"Aids digestion, boosts immunity",Digestive,"Fruit, Leaves","Eaten raw, juice, decoction","Antioxidant, antimicrobial",Seeds are toxic if consumed,images/seethapala.jpg
+Spinacia oleracea,Spinach,"Improves digestion, boosts iron levels",Digestive,Leaves,"Raw, cooked, juice","Nutrient-rich, antioxidant",No major toxicity,images/spinach1.jpg
+Tamarindus indica,Tamarind,"Aids digestion, treats respiratory issues","Digestive, Respiratory","Fruit, Leaves","Juice, pulp, decoction","Antioxidant, laxative",Excess can cause acidity,images/tamarind.jpg
+Colocasia esculenta,Taro,"Good for digestion, improves skin health","Digestive, Skin-related","Tubers, Leaves","Cooked, paste, decoction","Nutrient-rich, anti-inflammatory",Raw form can be toxic,images/taro.jpg
+Tecoma stans,Tecoma,"Used for diabetes control, anti-inflammatory",Digestive,"Leaves, Flowers","Decoction, extract","Antidiabetic, detoxifying",No major toxicity,images/tecoma.jpg
+Leucas aspera,Thumbe,"Treats cold, cough, skin infections","Respiratory, Skin-related","Leaves, Flowers","Decoction, paste","Antibacterial, expectorant",No major toxicity,images/thumbe.jpg
+Solanum lycopersicum,Tomato,"Good for skin health, improves digestion","Skin-related, Digestive",Fruit,"Raw, cooked, juice","Antioxidant, rich in lycopene",No major toxicity,images/tomato.jpg
+Ocimum sanctum,Tulsi,"Treats respiratory issues, boosts immunity","Respiratory, Digestive","Leaves, Seeds","Tea, raw leaves, decoction","Antibacterial, adaptogenic",No major toxicity,images/tulsi.jpg
+Curcuma longa,Turmeric,"Used for skin care, digestion, and inflammation","Skin-related, Digestive",Rhizome,"Powder, paste, decoction","Antioxidant, anti-inflammatory",Excess may cause stomach upset,images/turmeric.jpg
