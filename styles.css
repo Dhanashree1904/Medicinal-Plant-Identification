@@ -1,0 +1,57 @@
+/* Page background and font */
+body, .stApp {
+    background-color: #d8f3dc; /* pastel green background */
+    color: #000000; /* Black text */
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Button styles */
+.stButton>button {
+    background-color: #ffffff !important;   /* white button */
+    color: #000000 !important;   /* Black text */
+    border-radius: 8px !important;
+    font-weight: 600;
+    padding: 0.5em 1.5em;
+    border: 1px solid #b0b0b0 !important;
+}
+
+.stButton>button:hover {
+    background-color: #cccccc !important;   /* light gray on hover */
+    color: #000000 !important;   /* Black text */
+}
+
+/* Input fields */
+input, textarea {
+    background-color: #ffffff !important;
+    color: #000000 !important;   /* Black text for input text */
+    border: 1px solid #b0b0b0 !important;
+    border-radius: 6px !important;
+}
+
+/* Tabs background */
+.css-1h9usn5 {
+    background-color: #ffffff !important;
+    border-radius: 6px;
+    padding: 10px;
+    color: #000000 !important;   /* Black text for tabs */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important; /* Ensuring black text for headings */
+}
+
+/* Label styles for Email and Password */
+label {
+    color: #000000 !important; /* Black text for labels */
+}
+
+/* Text within the Login/Signup tabs (if they are using standard text elements) */
+.st-eb, .st-ex { /* These are common Streamlit classes for text elements */
+    color: #000000 !important;
+}
+
+/* Targeting the Login and Signup text directly within the tabs */
+div[data-baseweb="tab-list"] > div > button > div {
+    color: #000000 !important;
+}
